@@ -1,4 +1,4 @@
-# Oil Production Forecasting using Time-Series Machine Learning
+# Oil Production Forecasting using Machine Learning
 
 ## 📌 Project Overview
 Developed a predictive model to forecast daily oil output for upstream operations. This project focuses on handling the natural noise and volatility found in oil reservoir data to improve production scheduling.
